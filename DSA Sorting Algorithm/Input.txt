@@ -1,0 +1,11 @@
+Samara female 150 59 diamond 2
+Shiv female 170 60 Triangle 12
+Connor male 180 70 rectangle 30
+Logan  male 181 80 oval 4
+Cleon male 190 75 invertedtriangle 99
+Matt male 175 75 Trapezoid 9
+Jessica female 177 66 hourglass 16
+Marcia female 168 65 pear 5
+Demerzel female 170 70 rectangle 10
+Seldon male 175 74 rectangle 7
+Gaal female 170 55 rectangl 3
