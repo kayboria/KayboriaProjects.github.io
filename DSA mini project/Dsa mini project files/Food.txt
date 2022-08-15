@@ -1,0 +1,10 @@
+3 8 Hot Dog
+6 17 Spicy Chicken Mcdeluxe
+7 20 Roti chinai
+4 20 Mcnuggets
+8 5003 pasta
+15 15 burger
+25 15 chicken
+26 20 meat
+27 20 chicken sandwich
+2 30 chicken

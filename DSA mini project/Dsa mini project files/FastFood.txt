@@ -1,0 +1,11 @@
+3 8 Fish'N Crisp
+6 17 French Fries
+7 20 WhopprJr
+4 20 Tendergrill
+8 5003 Double Cheeseburger
+15 15 Beefacon Croissan'wich
+25 15 BK chicken Crisp
+26 20 Crispy Fried Chicken
+27 20 French Chicken
+2 30 Single Mushroom Swiss
+34 0 tt
