@@ -1,0 +1,25 @@
+int SortedSeqSearch( int search_key, int array[ ],
+int array size) int array_size)
+{ int p;
+int index = -1; //-1 means record not found
+for (p = 0; p < array_size; p++)
+{ if ( _ y y [p] search ke
+y < arra
+y [p] )
+break;
+// loop terminats when the value of
+// search key is smaller than the current array
+// element
+else if(search key== array[p]) if(search_key== array[p]) // key is found // key is found
+{ index = p;
+// assign current index
+break;
+} // end else
+-
+i
+f
+}//end for
+return index;
+// return the value of index
+} //end function
+b
